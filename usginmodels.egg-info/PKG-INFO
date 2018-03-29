@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: usginmodels
+Version: 1.1.6
+Summary: Interface for interacting with USGIN content models
+Home-page: https://github.com/usgin/usginmodels
+Author: Arizona Geological Survey
+Author-email: developer@azgs.az.gov
+License: UNKNOWN
+Download-URL: https://github.com/usgin/usginmodels/tarball/1.1.5
+Description: UNKNOWN
+Keywords: usgin,ngds,azgs
+Platform: UNKNOWN
